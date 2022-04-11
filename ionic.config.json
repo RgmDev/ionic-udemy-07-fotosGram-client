@@ -1,0 +1,7 @@
+{
+  "name": "07-fotosGram-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
