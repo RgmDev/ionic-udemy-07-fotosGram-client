@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "07-fotosGram-client",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
